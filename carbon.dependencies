@@ -39,12 +39,12 @@
         "remote": "gh",
         "repository": "F4k/android_device_samsung_serrano-common",
         "target_path": "device/samsung/serrano-common",
-        "revision": "cm-11.0"
+        "revision": "master"
     },
     {
         "remote": "gh",
         "repository": "F4k/propietary_vendor_samsung_serrano-common",
         "target_path": "vendor/samsung",
-        "revision": "F4k"
+        "revision": "master"
     }
 ]
