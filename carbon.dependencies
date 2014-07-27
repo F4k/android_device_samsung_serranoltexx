@@ -43,7 +43,7 @@
     },
     {
         "remote": "gh",
-        "repository": "F4k/proprietary_vendor_samsung_serrano-common",
+        "repository": "F4k/propietary_vendor_samsung_serrano-common",
         "target_path": "vendor/samsung",
         "revision": "F4k"
     }
