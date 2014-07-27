@@ -31,8 +31,8 @@
     },
     {
         "remote": "gh",
-        "repository": "F4k/android_device_samsung_serrano3gxx",
-        "target_path": "device/samsung/serrano3gxx",
+        "repository": "F4k/android_device_samsung_serranoltexx",
+        "target_path": "device/samsung/serranoltexx",
         "revision": "master"
     },
     {
