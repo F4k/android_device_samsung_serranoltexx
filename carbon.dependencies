@@ -12,6 +12,12 @@
         "revision": "cm-11.0"
     },
     {
+        "remote": "cm",
+        "repository": "CyanogenMod/android_hardware_qcom_fm",
+        "target_path": "hardware/qcom/fm",
+        "revision": "cm-11.0"
+    },
+    {
         "remote": "gh",
         "repository": "F4k/android_device_samsung_msm8930-common",
         "target_path": "device/samsung/msm8930-common",
@@ -44,7 +50,7 @@
     {
         "remote": "gh",
         "repository": "F4k/propietary_vendor_samsung_serrano-common",
-        "target_path": "vendor/samsung",
+        "target_path": "vendor/samsung/serrano-common",
         "revision": "master"
     }
 ]
