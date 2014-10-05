@@ -30,4 +30,4 @@ PRODUCT_COPY_FILES += \
 
 # RIL
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.telephony.ril_class=SamsungMSM8930RIL
+    ro.telephony.ril_class=SerranoRIL
