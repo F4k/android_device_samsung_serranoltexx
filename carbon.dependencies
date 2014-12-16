@@ -3,7 +3,7 @@
         "remote": "gh",
         "repository": "F4k/android_kernel_samsung_msm8930-common",
         "target_path": "kernel/samsung/msm8930-common",
-        "revision": "master"
+        "revision": "cm11-new"
     },
     {
         "remote": "cm",
