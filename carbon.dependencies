@@ -39,7 +39,7 @@
         "remote": "gh",
         "repository": "F4k/android_device_samsung_serrano-common",
         "target_path": "device/samsung/serrano-common",
-        "revision": "master"
+        "revision": "carbon"
     },
     {
         "remote": "gh",
